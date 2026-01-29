@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+    <producto>
+        <nombre>Laptop</nombre>
+        <precio>45000</precio>
+        <cantidad>3</cantidad>
+    </producto>
+
+    <producto>
+        <nombre>Mouse</nombre>
+        <precio>800</precio>
+        <cantidad>12</cantidad>
+    </producto>
+</inventario>

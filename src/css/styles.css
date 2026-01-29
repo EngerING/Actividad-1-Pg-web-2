@@ -1,0 +1,25 @@
+:root {
+    --primario: #4a90e2;
+    --hover: #50c878;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 30px;
+}
+
+.card {
+    background: var(--primario);
+    color: white;
+    width: 260px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    transition: transform 0.3s, background 0.3s;
+}
+
+.card:hover {
+    background: var(--hover);
+    transform: scale(1.05);
+}
